@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## DAntyNoel 邵方昊
 
-You can use the [editor on GitHub](https://github.com/DAntyNoel/dantynoel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+###  **丹提诺艾** 的个人主页
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*~~因为没有搭建网页的打算，所以决定敷衍了事，~~这是简单的树洞记事*
 
-### Markdown
+丹提诺艾是个02年伪二次元，贪玩成性，正在三次元重压中苟延残喘。人前无理想，人后摆大烂，深知自己不争气却仍旧不思进取，总结一个字：**寄**。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+好耶！
 
-```markdown
-Syntax highlighted code block
+###### 这真是可以说的东西吗？
 
-# Header 1
-## Header 2
-### Header 3
+### 学习履历
 
-- Bulleted
-- List
+来自浙江温州，高中学过三年数学竞赛，最终获得[2020年全国高中数学联赛（浙江赛区）一等奖](https://new.qq.com/rain/a/20201016A03DYX00)。高考678分通过综合评价（旧称三位一体）考入[上海交通大学](https://en.sjtu.edu.cn/)。
 
-1. Numbered
-2. List
+现为2021级[上海交通大学致远学院](https://en.zhiyuan.sjtu.edu.cn/en) [计算机科学与技术，约翰·霍普克罗夫特班(John Class)](https://en.zhiyuan.sjtu.edu.cn/en/news/116/detail)  本科生。
 
-**Bold** and _Italic_ and `Code` text
+#### 联系方式
 
-[Link](url) and ![Image](src)
-```
+Email: [dantynoel@sjtu.edu.cn](mailto:dantynoel@sjtu.edu.cn)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+QQ: 419768539
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DAntyNoel/dantynoel.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Mobile: 13605873125
